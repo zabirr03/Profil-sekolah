@@ -43,7 +43,7 @@
 			$kontak = mysqli_fetch_array($sql7);
             ?>
 
-	<!-- preload -->
+	<!-- preload --->
 	<div class="preload" id="preload">
 		<div class="cssload-spin-box"></div>
 	</div><!-- End / preload -->
